@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD ["/bin/uname", "--all"]
+CMD ["uname", "--all"]
